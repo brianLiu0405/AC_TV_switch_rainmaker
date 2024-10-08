@@ -43,19 +43,3 @@ Send on a 32 bit platform with:
 
 ![3.png](pic/3.png)
 
-## RFID
-- install library
-    - LiquidCrystal
-    - MFRC522
-- setup sensor
-    - I2C LCD display
-    - rc522
-    ``` cpp
-      Serial.println(MOSI);
-      Serial.print("MISO: ");
-      Serial.println(MISO);
-      Serial.print("SCK: ");
-      Serial.println(SCK);
-      Serial.print("SS: ");
-      Serial.println(SS);  
-  ```
