@@ -12,8 +12,8 @@ using rainmaker to control the AC and TV power, make original device can remote 
 - using example code uncomment define and read your remotor
 
     - it will print the code that add in your ir_send
-![截圖 2024-10-07 上午3.46.03](https://hackmd.io/_uploads/Bkh4tDgkyx.png)
-![截圖 2024-10-07 上午3.47.24](https://hackmd.io/_uploads/SkvUtPekyx.png)
+![1.png](pic/1.png)
+![2.png](pic/2.png)
 
 
 :::danger
@@ -41,7 +41,7 @@ Send on a 32 bit platform with:
 - design the matter to control your intellengence device on google home or others
     - https://blog.espressif.com/esp-rainmaker-now-in-arduino-cf1474526172
 
-![截圖 2024-10-07 下午12.22.01](https://hackmd.io/_uploads/Skixf1bkyg.png)
+![3.png](pic/3.png)
 
 ## RFID
 - install library
