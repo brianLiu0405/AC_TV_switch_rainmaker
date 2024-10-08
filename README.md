@@ -49,16 +49,16 @@ Send on a 32 bit platform with:
 
 - the result on esp rainmaker app screen
 
-![4.png](pic/4.png | width=100)
+<img src="pic/4.png" width="200">
 
 - connect google home and esp rainmaker
 
-![6.png](pic/6.png | width=100)
+<img src="pic/6.png" width="200">
 
 - choose device to add into google home
 
-![5.png](pic/5.png | width=100)
+<img src="pic/5.png" width="200">
 
 - final result, using google home control the ir sender to turn TV/AC on is working
 
-![7.png](pic/7.png | width=100)
+<img src="pic/7.png" width="200">
