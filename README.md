@@ -1,4 +1,6 @@
 # AC_TV_switch_rainmaker
+
+Board : ESP32-S3
 using rainmaker to control the AC and TV power, make original device can remote control
 
 ## IR Remote
